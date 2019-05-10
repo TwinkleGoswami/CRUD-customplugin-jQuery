@@ -1,0 +1,39 @@
+#register
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.border-gender
+{
+    border: 1px solid #dddddd;
+}
+.errorMessage
+{
+    color: red;
+}
+.padding-cls
+{
+    padding-left: 15px !important;
+    padding-top: 2.5px !important;
+}
+.container
+{
+    margin-top:30px !important;
+}
+.display-check
+{
+    margin: 0px 5px 0px !important;
+}
+.imgstyle
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#example th
+{
+    background-color: #0073aa !important;
+    color: white;
+}
